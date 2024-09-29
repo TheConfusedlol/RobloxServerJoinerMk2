@@ -22,22 +22,22 @@ Make sure to save your changes before running the script.
 ## List of every known roblox server reigon (as at 29/9/2024)
 Format: City Symbol, City
 ```
-Ashburn, VA, USA
-Portland, OR, USA
-Dallas, TX, USA
-Los Angeles, CA, USA
-Miami, FL, USA
-Palo Alto, CA, USA
-San Mateo, CA, USA
-Newark, NJ, USA
-Atlanta, GA, USA
-City of London, UK
-Singapore
-Frankfurt, Germany
-Amsterdam, Netherlands
-Paris, France
-Hong Kong
-Tokyo, Japan
+Ashburn, Virginia, USA
+Portland, Oregon, USA
+Dallas, Texas, USA
+Los Angeles, California, USA
+Miami, Florida, USA
+Palo Alto, California, USA
+San Mateo, California, USA
+Newark, New Jersey, USA
+Atlanta, Georgia, USA
+City of London, England, United Kingdom
+Singapore, Singapore
+Frankfurt am Main, Hesse, Germany
+Amsterdam, North Holland, Netherlands
+Paris, Île-de-France, France
+Hong Kong, China
+Tokyo, Tokyo-to, Japan
 Mumbai, India
 Sydney, Australia
 São Paulo, Brazil
