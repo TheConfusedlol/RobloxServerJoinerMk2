@@ -2,7 +2,7 @@
 This is a W.I.P script that allows you to go to any roblox server locale of your choosing. Originally made by Exilon24.
 
 ## Installation:
-Open your terminal and move to the directory you wish to install this tool and clone this repo: git clone https://github.com/Exilon24/RobloxServerFinder.git
+Open your terminal and move to the directory you wish to install this tool and clone this repo: git clone https://github.com/TheConfusedlol/RobloxServerJoinerMk2.git
 
 Then cd into the installed directory and run pip install -r requirements.txt
 
