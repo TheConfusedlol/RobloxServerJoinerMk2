@@ -40,6 +40,7 @@ HK, Hong Kong
 TOK, Tokyo
 MUM, Mumbai
 SYD, Sydney
+SP, São Paulo
 ```
 ## List of every known roblox server country reigon (as at 29/9/2024)
 ```
@@ -53,6 +54,7 @@ HK - Hong Kong
 JP - Japan (Tokyo, Tokyo-to)
 IN - India (Mumbai)
 AU - Australia (Sydney)
+BR - Brazil (São Paulo)
 ```
 ## Addendum: Handling Cities Without States
 When specifying a city and region, it's important to note that not all cities are associated with a state or province. For cities like Tokyo or London, which are major urban centers and not part of a state system, you can follow this format:
