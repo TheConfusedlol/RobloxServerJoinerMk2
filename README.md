@@ -23,7 +23,7 @@ Make sure to save your changes before running the script.
 Format: City Symbol, City
 ```
 Ashburn, Virginia, USA
-Portland, Oregon, USA
+Secaucus, New Jersey USA
 Dallas, Texas, USA
 Los Angeles, California, USA
 Miami, Florida, USA
@@ -44,7 +44,7 @@ São Paulo, Brazil
 ```
 ## List of every known roblox server country reigon (as at 29/9/2024)
 ```
-US - North/South America (Ashburn, Virginia; Portland, OR; Dallas, TX; Los Angeles, CA; Miami, FL; Palo Alto, California; San Mateo, California; Newark, New Jersey; Atlanta, Georgia)
+US - North/South America (Ashburn, Virginia; Secaucus, NJ; Dallas, TX; Los Angeles, CA; Miami, FL; Palo Alto, California; San Mateo, California; Newark, New Jersey; Atlanta, Georgia)
 UK - United Kingdom (City of London, England)
 SG - Singapore
 DE - Germany (Frankfurt am Main, Hesse)
