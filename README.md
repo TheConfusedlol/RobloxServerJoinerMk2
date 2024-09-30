@@ -8,8 +8,12 @@ Then cd into the installed directory and run pip install -r requirements.txt
 
 The program requires some settings to be set. Open up roServerFinder.py in a text editor (notepad, vim, anything really). There are 2 fields you need to set (starting line 7):
 
-## Enter your roblox cookie here
-``` robloxCookie = "" ```
+# Finding the roblox cookie
+Download a cookie editor extension. [I use this one](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en)
+Go to roblox
+Log into the account you want the cookie for
+Open the extension and copy your .ROBLOSECURITY cookie and paste it into the robloxserverfinder python script: image. <br/>
+**Do not show this string to anyone, doing so will allow them to log into your account. If you do share it, use the extension to clear your cookies and re-login to your account.**
 
 ## Enter desired city and region here (Florida used as an example)
 ```
