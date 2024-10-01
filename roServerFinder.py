@@ -7,7 +7,7 @@ import aiohttp
 # Enter your roblox cookie here
 robloxCookie = " "
 
-# Enter desired city and region here (Miami, FL)
+# Enter desired city and region here
 targetCity = "miami"
 targetRegion = "florida"
 targetCountryCode = "US"
