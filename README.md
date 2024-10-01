@@ -1,5 +1,5 @@
 # RobloxServerJoinerMk2
-This is a W.I.P script that allows you to go to any roblox server locale of your choosing. Originally made by Exilon24.
+This is a W.I.P script that allows you to go to any roblox server locale of your choosing. Originally made by Exilon24. There are a LOT of issues with the code and any improvements would be greatly accepted
 
 ## Installation:
 Open your terminal and move to the directory you wish to install this tool and clone this repo: git clone https://github.com/TheConfusedlol/RobloxServerJoinerMk2.git
@@ -26,15 +26,15 @@ Make sure to save your changes before running the script.
 ## List of every known roblox server reigon (as at 29/9/2024)
 Format: City Symbol, City
 ```
-Ashburn, Virginia, USA
-Secaucus, New Jersey USA
-Dallas, Texas, USA
-Los Angeles, California, USA
-Miami, Florida, USA
-Palo Alto, California, USA
-San Mateo, California, USA
-Newark, New Jersey, USA
-Atlanta, Georgia, USA
+Ashburn, Virginia, US
+Secaucus, New Jersey US
+Dallas, Texas, US
+Los Angeles, California, US
+Miami, Florida, US
+Palo Alto, California, US
+San Mateo, California, US
+Newark, New Jersey, US
+Atlanta, Georgia, US
 City of London, England, United Kingdom
 Singapore, Singapore
 Frankfurt am Main, Hesse, Germany
@@ -68,6 +68,11 @@ targetCity = "tokyo"          # For cities without a state, use the city name on
 targetRegion = ""              # Leave this blank if the city does not have a state
 targetCountryCode = "JP"      # Use the appropriate country code (e.g., "JP" for Japan, "UK" for the United Kingdom)
 ```
+# Non-working servers:
+Singapore
+Portland, Oregon
+Tokyo, Japan
+
 ## Usage
 Then go to the directory roServerFinder.py is in and run python roServerFinder.py and enter the game ID e.g: https://www.roblox.com/games/15069312471/LifeLike-Disasters game ID is 15069312471
 
