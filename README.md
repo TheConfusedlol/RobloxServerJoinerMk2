@@ -74,9 +74,9 @@ Tokyo, Japan
 
 ## Usage
 Then go to the directory roServerFinder.py by doing cd ro and then pressing the Tab key to autofill the folder. run 
-```
-python roServerFinder.py 
-```
+
+`python roServerFinder.py`
+
 and enter the game ID e.g: https://www.roblox.com/games/15069312471/LifeLike-Disasters game ID is 15069312471
 
 This will open a browser window, requesting to join a roblox game. It will prompt you to allow roblox to open. If you decline, roblox will not open. The browser window will automatically close after you join.
