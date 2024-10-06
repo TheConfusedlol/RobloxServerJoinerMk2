@@ -17,34 +17,34 @@ Open the extension and copy your .ROBLOSECURITY cookie and paste it into the rob
 
 ## Enter desired city and region here (Florida used as an example)
 ```
-targetCity = "miami"
-targetRegion = "florida"
-targetCountryCode = "US"
+ServerRegion = "US"
+RegionCity = "Miami"
+ServerRegionSymbol = "FL"
 ```
 
 Make sure to save your changes before running the script.
 ## List of every known roblox server reigon (as at 29/9/2024)
 Format: City Symbol, City
 ```
-Ashburn, Virginia, US
-Secaucus, New Jersey US
-Dallas, Texas, US
-Los Angeles, California, US
-Miami, Florida, US
-Palo Alto, California, US
-San Mateo, California, US
-Newark, New Jersey, US
-Atlanta, Georgia, US
-City of London, England, United Kingdom
-Singapore, Singapore
-Frankfurt am Main, Hesse, Germany
-Amsterdam, North Holland, Netherlands
-Paris, Île-de-France, France
-Hong Kong, China
-Tokyo, Tokyo-to, Japan
-Mumbai, India
-Sydney, Australia
-São Paulo, Brazil
+VA, Ashburn  
+NJ, Secaucus  
+TX, Dallas  
+CA, Los Angeles  
+FL, Miami  
+CA, Palo Alto  
+CA, San Mateo  
+NJ, Newark  
+GA, Atlanta  
+ENG, City of London  
+SG, Singapore  
+HE, Frankfurt am Main  
+NH, Amsterdam  
+IDF, Paris  
+HK, Hong Kong  
+JP, Tokyo  
+IN, Mumbai  
+AU, Sydney  
+BR, São Paulo
 ```
 ## List of every known roblox server country reigon (as at 29/9/2024)
 ```
@@ -61,16 +61,15 @@ AU - Australia (Sydney)
 BR - Brazil (São Paulo)
 ```
 ## Addendum: Handling Cities Without States
-When specifying a city and region, it's important to note that not all cities are associated with a state or province. For cities like Tokyo or London, which are major urban centers and not part of a state system, you can follow this format:
-``` 
-Enter desired city and region here
-targetCity = "tokyo"          # For cities without a state, use the city name only
-targetRegion = ""              # Leave this blank if the city does not have a state
-targetCountryCode = "JP"      # Use the appropriate country code (e.g., "JP" for Japan, "UK" for the United Kingdom)
+When specifying a city and region, remember that some cities, like Tokyo or London, are major urban centers and do not belong to a state or province. For these cases, you can use the following format:
+
 ```
-# Non-working servers:
-Singapore
-Portland, Oregon
+ServerRegion = "JP"             # Country code (e.g., "JP" for Japan)
+RegionCity = "Tokyo"            # City name only for cities without a state
+ServerRegionSymbol = "TK"         # Use the symbol for the reigon city.
+```
+# Non-working/troublesome  servers:
+Portland, Oregon (redirects to other servers for some reason) <br>
 Tokyo, Japan
 
 ## Usage
