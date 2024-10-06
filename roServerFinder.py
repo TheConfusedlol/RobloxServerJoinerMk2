@@ -9,7 +9,7 @@ ServerRegion = "US"
 RegionCity = "Miami"
 ServerRegionSymbol = "FL"
 
-print("Roblox server finder by Exilon (Exilon24 on github).")
+print("Roblox server finder created by Exilon (Exilon24 on github) and edited by Nirvloyd (TheConfusedlol on Github).")
 placeId = int(input("PlaceID: "))
 print(f"Looking for game in {ServerRegion}, {RegionCity}...")
 
