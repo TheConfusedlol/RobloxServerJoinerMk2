@@ -3,7 +3,7 @@ This is a W.I.P script that allows you to go to any roblox server locale of your
 
 ## Installation:
 Open your terminal and move to the directory you wish to install this tool and clone this repo: git clone https://github.com/TheConfusedlol/RobloxServerJoinerMk2.git
-
+if you have an error trying to run `pip install git`
 Then cd into the installed directory and run pip install -r requirements.txt
 
 # Finding the roblox cookie
