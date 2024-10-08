@@ -2,9 +2,9 @@
 This is a W.I.P script that allows you to go to any roblox server locale of your choosing. Originally made by Exilon24. There are a LOT of issues with the code and any improvements would be greatly accepted
 
 ## Installation:
-Open your terminal and move to the directory you wish to install this tool and clone this repo: git clone https://github.com/TheConfusedlol/RobloxServerJoinerMk2.git
-if you have an error trying to run the command, simply install git [here](https://git-scm.com/downloads/win) 
-Then type cd and tab until you see the directory it was installed into and run pip install -r requirements.txt.
+Open your terminal and move to the directory you wish to install this tool and clone this repo: `git clone https://github.com/TheConfusedlol/RobloxServerJoinerMk2.git` <br>
+if you have an error trying to run the command, simply install git [here](https://git-scm.com/downloads/win) <br>
+Then type cd and tab until you see the directory it was installed into and run pip install -r requirements.txt. <br>
 Example:![test](https://github.com/user-attachments/assets/ed28e43b-e051-449d-abac-6f3262d7cad5)
 
 
@@ -75,9 +75,8 @@ Portland, Oregon (redirects to other servers for some reason) <br>
 Tokyo, Japan
 
 ## Usage
-Then go to the directory roServerFinder.py by doing cd ro and then pressing the Tab key to autofill the folder. run 
-
-`python roServerFinder.py`
+Then go to the directory roServerFinder.py by doing cd ro and then pressing the Tab key to autofill the folder. <br>
+run `python roServerFinder.py`
 
 and enter the game ID e.g: https://www.roblox.com/games/15069312471/LifeLike-Disasters game ID is 15069312471
 
