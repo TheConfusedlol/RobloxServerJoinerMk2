@@ -12,7 +12,9 @@ Example:![test](https://github.com/user-attachments/assets/ed28e43b-e051-449d-ab
 Download a cookie editor extension. [I use this one](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en)
 Go to roblox
 Log into the account you want the cookie for
-Open the extension and copy your .ROBLOSECURITY cookie. FInd the folder the script is located at, typically Drive/Users/(username)/RboloxServerFinder and open up RobloxSeverFinder.py in notepad and paste it into the ROBLOXSECCURITYCOOKIE line: image. <br/>
+Open the extension and copy your .ROBLOSECURITY cookie. FInd the folder the script is located at, typically Drive/Users/(username)/RboloxServerFinder and open up RobloxSeverFinder.py in notepad and paste it into the ROBLOXSECCURITYCOOKIE line:
+![image](https://github.com/user-attachments/assets/72f1bd28-35f9-4c24-90f1-8e8e04ee709e) (Don't include the _ at the front)
+ <br/>
 **Do not show this string to anyone, doing so will allow them to log into your account. If you do share it, use the extension to clear your cookies and re-login to your account.**
 
 ## Entering desired city and region  (Florida used as an example)
